@@ -55,6 +55,9 @@ Kewordvalidationtestcase
     Set Browser Implicit Wait    5
     Click Element    link=Logout
     Log    This was executed by %{username} in %{os}
-          
+    
+Githubchecktestcase
+        [Tags]    TC04
+        Log    HelloWorld....  
     
                                 
